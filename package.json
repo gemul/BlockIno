@@ -1,0 +1,23 @@
+{
+  "name": "blockino",
+  "version": "1.0.0",
+  "description": "Blockly-based arduino sketch editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/gemul/BlockIno.git",
+  "keywords": [
+    "Arduino",
+    "blockly",
+    "editor",
+    "ino"
+  ],
+  "author": "Gemul",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "electron-reload": "^1.1.0"
+  }
+}
+
